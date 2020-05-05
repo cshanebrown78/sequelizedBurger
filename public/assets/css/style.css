@@ -1,0 +1,13 @@
+.header, .row {
+    text-align: center;
+}
+
+.new-burgers {
+    text-decoration: none;
+    text-align: left;
+    /* line-height: 150; */
+}
+
+ul {
+    list-style-type: none
+}
