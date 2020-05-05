@@ -11,5 +11,5 @@ This is an App using node express handlebars and mysql database.  It's called Ea
 2. Install required node packages by using npm install command in the terminal.
  
 ### Links
-Git Hub Repo: https://github.com/cshanebrown78/burger
-App Link: https://warm-refuge-24063.herokuapp.com/
+Git Hub Repo: https://github.com/cshanebrown78/sequelizedBurger
+App Link: 
